@@ -13,3 +13,5 @@ Improvements :
 Jetpack Navigation
 Jetpack Compose
 Use of local database
+
+Note : minSdkVersion is 26. Please install in latest versions of android.
